@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="IdentityModule" />
+    <orderEntry type="module" module-name="Taxmodule" />
+    <orderEntry type="module" module-name="PassportModule" />
+    <orderEntry type="module" module-name="BusinessModule" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
